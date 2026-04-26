@@ -63,8 +63,8 @@ PDF Input
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/free-multimodal-rag.git
-cd free-multimodal-rag
+git clone https://github.com/nagasaicharanh/Free-Multimodal-RAG.git
+cd Free-Multimodal-RAG
 
 # Create virtual environment
 python -m venv venv
