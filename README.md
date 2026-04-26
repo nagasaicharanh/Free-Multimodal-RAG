@@ -1,6 +1,18 @@
-# Free Multimodal RAG
+<div align="center">
+
+# 🤖 Free Multimodal RAG
+
+### Full-stack RAG system for **Text, Tables, and Images** using Free-Tier APIs
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/Orchestration-LangChain-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-000000?style=for-the-badge)](https://www.trychroma.com/)
+[![Groq](https://img.shields.io/badge/LLM-Groq-f55036?style=for-the-badge)](https://groq.com/)
+[![Gemini](https://img.shields.io/badge/Vision-Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
 
 A fully free, open-source Multimodal Retrieval-Augmented Generation (RAG) system that processes PDFs and answers user queries with source attribution across three modalities: **text**, **tables**, and **images/charts**.
+</div>
 
 ## 🎯 Key Features
 
