@@ -20,7 +20,7 @@ A fully free, open-source Multimodal Retrieval-Augmented Generation (RAG) system
 - **Three Modalities Supported**:
   - **Text** → Extracted and embedded locally with sentence-transformers
   - **Tables** → Converted to markdown, summarized with Groq Llama 3.3 70B
-  - **Images/Charts** → Analyzed with Google Gemini 1.5 Flash Vision
+  - **Images/Charts** → Analyzed with Google Gemini 1.5 Flash Vision.
 - **Local-First**: Text embeddings run entirely offline; images/tables only call APIs during processing
 - **Source Attribution**: Every answer includes source badge, snippet, and original content reference
 - **Graceful Fallback**: If Groq API is unavailable, system falls back to local LLM (ollama)
